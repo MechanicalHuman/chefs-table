@@ -1,0 +1,38 @@
+{
+  "name": "@hnp/chefs-table",
+  "version": "1.0.0",
+  "description": "Heats your computer to the target temperature",
+  "homepage": "https://github.com/MechanicalHuman/chefs-table#readme",
+  "bugs": {
+    "url": "https://github.com/MechanicalHuman/chefs-table/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MechanicalHuman/chefs-table.git"
+  },
+  "license": "MIT",
+  "author": "Jorge Proaño <jorge@hiddennodeproblem.com> (https://www.hidden-node-problem.com/)",
+  "contributors": [
+    "An"
+  ],
+  "main": "index.js",
+  "bin": {
+    "chefs-table": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "kleur": "^2.0.2",
+    "mri": "^1.1.1",
+    "osx-temperature-sensor": "^1.0.3",
+    "prime-number": "^0.2.2",
+    "single-line-log": "^1.1.2",
+    "sleep": "^5.2.3",
+    "systeminformation": "^3.45.7"
+  },
+  "os": [
+    "darwin"
+  ],
+  "preferGlobal": true
+}
