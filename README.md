@@ -4,7 +4,7 @@
 
 > Heats your computer to the target temperature
 
-Overheats your computer.
+A necessary evil.
 
 ---
 
@@ -28,6 +28,8 @@ chefs-table
 ```
 
 ## Changelog
+
+Find the CHANGELOG [here](CHANGELOG.md), generated using Conventional Commits.
 
 ## License
 

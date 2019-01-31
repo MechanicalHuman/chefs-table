@@ -1,6 +1,6 @@
 {
   "name": "@hnp/chefs-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heats your computer to the target temperature",
   "homepage": "https://github.com/MechanicalHuman/chefs-table#readme",
   "bugs": {
@@ -34,5 +34,8 @@
   "os": [
     "darwin"
   ],
-  "preferGlobal": true
+  "preferGlobal": true,
+  "publishConfig": {
+    "access": "public"
+  }
 }
