@@ -13,7 +13,7 @@
   "license": "MIT",
   "author": "Jorge Proaño <jorge@hiddennodeproblem.com> (https://www.hidden-node-problem.com/)",
   "contributors": [
-    "An"
+    "Jorge Proaño <jorge@hiddennodeproblem.com>"
   ],
   "main": "index.js",
   "bin": {
